@@ -5,7 +5,7 @@ DATA_FILE = "students.json"
 class Student:
     def __init__(self, name, subjects):
         self.name = name
-        self.subjects = subjects  # dict: {"Math": 90, "English": 80}
+        self.subjects = subjects
 
     def average(self):
         return sum(self.subjects.values()) / len(self.subjects)
