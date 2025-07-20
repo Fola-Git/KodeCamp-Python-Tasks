@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Folashade Oroge",
+    "subjects": {
+      "Math": 78,
+      "English": 95,
+      "Science": 67
+    },
+    "average": 80.0,
+    "grade": "A"
+  },
+  {
+    "name": "Timi Babe",
+    "subjects": {
+      "Math": 67,
+      "English": 82,
+      "Science": 23
+    },
+    "average": 57.333333333333336,
+    "grade": "B"
+  }
+]
