@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2025-07-20",
+    "category": "Food",
+    "amount": 8000.0
+  },
+  {
+    "date": "2025-07-20",
+    "category": "Transport",
+    "amount": 50000.0
+  },
+  {
+    "date": "2025-07-20",
+    "category": "Bills",
+    "amount": 4000.0
+  }
+]
